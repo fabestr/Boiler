@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/boilerplate",
+    "require-dev": {
+        "michelf/php-markdown": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "fabestr",
+            "email": "f.estrabaud@gmail.com"
+        }
+    ],
+    "require": {}
+}

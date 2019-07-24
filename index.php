@@ -1,6 +1,8 @@
 <?php
 include_once 'PHP/_debug.php';
 
+require 'vendor/autoload.php';
+
 
 
 ?>
